@@ -99,9 +99,6 @@
 			patrimoine
 				{monument and heritage site}
 				{01018000}
-				institutions-DEPRECATED
-					{institution-deprecated}
-					{01018001}
 			coutumes et traditions
 				{customs and tradition}
 				{01019000}
@@ -1801,19 +1798,7 @@
 				finances publiques
 					{public finance}
 					{11013001}
-			traités et organisations internationales
-				{treaty and international organisation-DEPRECATED}
-				{11014000}
-				relations internationales
-					{international relations-DEPRECATED}
-					{11014001}
-				négociations de paix
-					{peace negotiations-DEPRECATED}
-					{11014002}
-				alliances
-					{alliances-DEPRECATED}
-					{11014003}
-			Constitution
+			constitution
 				{constitution}
 				{11015000}
 			politique intérieure
@@ -1909,30 +1894,6 @@
 			Franc-maçonnerie
 				{freemasonry}
 				{12003000}
-			religion-DEPRECATED
-				{religion-DEPRECATED}
-				{12004000}
-				Christianisme-DEPRECATED
-					{christianity-DEPRECATED}
-					{12004001}
-				Musulman-DEPRECATED
-					{islam-DEPRECATED}
-					{12004002}
-				Judaïsme-DEPRECATED
-					{judaism-DEPRECATED}
-					{12004003}
-				Boudhisme-DEPRECATED
-					{buddhism-DEPRECATED}
-					{12004004}
-				Hindouisme-DEPRECATED
-					{hinduism-DEPRECATED}
-					{12004005}
-			église-DEPRECATED
-				{church (organisation)-DEPRECATED}
-				{12005000}
-				établissement religieux-DEPRECATED
-					{religious facilities-DEPRECATED}
-					{12005001}
 			valeurs
 				{values}
 				{12006000}
@@ -2550,12 +2511,6 @@
 				National Football League
 					{(US) National Football League (NFL) (North American)}
 					{15003001}
-				entry deleted
-					{CFL}
-					{15003002}
-				AFL
-					{AFL-DEPRECATED}
-					{15003003}
 			tir à l'arc
 				{archery}
 				{15004000}
@@ -2850,12 +2805,6 @@
 				14.1 continu
 					{14-janv.}
 					{15010003}
-				Continuous
-					{continuous-DEPRECATED}
-					{15010004}
-				Other
-					{other-DEPRECATED}
-					{15010005}
 				snooker
 					{snooker}
 					{15010006}
@@ -3300,10 +3249,7 @@
 				entraînement
 					{sparring}
 					{15034001}
-				combat
-					{formal exercise-DEPRECATED}
-					{15034002}
-			Lacrosse
+			lacrosse
 				{lacrosse}
 				{15035000}
 			luge
