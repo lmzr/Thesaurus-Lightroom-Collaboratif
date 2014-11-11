@@ -4402,9 +4402,9 @@
 			{update}
 		dictaphone
 			{voicer}
-		wrap
+		conclusion
 			{wrap}
-		wrap up
+		bilan intermédiaire 
 			{wrapup}
 	[IPTC Qualifiers]
 		femelle
@@ -4471,7 +4471,7 @@
 		action
 			{011900}
 			{action}
-		en train d'exécuter
+		interprétation
 			{012000}
 			{performing}
 		posant
